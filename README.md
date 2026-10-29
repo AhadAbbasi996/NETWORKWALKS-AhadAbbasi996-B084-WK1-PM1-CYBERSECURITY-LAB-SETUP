@@ -1,6 +1,6 @@
 # 🔐 Cybersecurity Lab Setup — Networkwalks Week 1
 
-**A practical cybersecurity lab setup using VMware and Kali Linux.**
+**A practical cybersecurity lab setup using VMware/VirtualBox and Kali Linux.**
 
 This repository documents my Week 1 practical project for the NETWORKWALKS Cybersecurity Internship. It covers virtual machine configuration, network setup, and preparation of a Linux-based environment for authorized cybersecurity practice.
 
